@@ -12,6 +12,12 @@ To learn more before you start working with dkeeper, see the following documenta
 - [Motoko Language Quick Reference](https://internetcomputer.org/docs/current/references/motoko-ref/)
 - [JavaScript API Reference](https://erxue-5aaaa-aaaab-qaagq-cai.raw.ic0.app)
 
+# dfx version
+This project is based on dfx version 0.12.1. If dfx is not installed, or a different version of dfx is installed, please run the following command.
+```zsh
+DFX_VERSION=0.12.1 sh -ci "$(curl -fsSL https://sdk.dfinity.org/install.sh)"
+```
+
 If you want to start working on your project right away, you might want to try the following commands:
 
 ```bash
